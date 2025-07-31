@@ -12,7 +12,7 @@ This repository contains the official implementation of the paper:
 
 ## Overview
 
-In this work, we introduce XBoundNet++, a clinically novel deep learning framework designed specifically for a problem that is often overlooked in medical AI: How to accurately delineate a region in ambiguous or roughly labeled scans - in this case, post-treatment analysis for renal cell carcinoma (kidney cancer). 
+In this work, we introduce XBoundNet++, a clinically novel deep learning framework designed specifically for a problem that is often overlooked in medical AI: How to accurately delineate a region in ambiguous or roughly labeled scans - in this case, post-treatment analysis for renal cell carcinoma (kidney cancer) CT images. 
 
 Why is this needed? In many real-world clinical settings, ground truth labels are rough approximations, and boundaries are inherently unclear due to poor imaging contrast or subjective interpretations. Traditional segmentation models break down in these contexts - the very situations where clinical AI is most urgently needed.
 
@@ -48,4 +48,11 @@ The following will open a Jupyter Notebook environment, please open and run `XBo
 ```bash
 jupyter notebook
 ```
+
+## 2. Acknowledgments
+The authors are grateful for funding from the Ontario Institute of Cancer Research (OICR) Grant RA#262 and the Canadian Institutes of Health Research (CIHR) – Grant FRN 154314.
+
+## 3. Contact
+Please raise a GitHub issue or contact one of the corresponding authors for access to the dataset.
+[oarbelwo@uwo.ca](oarbelwo@uwo.ca) | [afenster@uwo.ca](afenster@uwo.ca) | [mrasteg2@uwo.ca](mrasteg2@uwo.ca)
 
