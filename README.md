@@ -32,9 +32,10 @@ This work was done at the incredible lab at Robarts Research Institute, and was 
 </div>
 
 
-## 1. Preparation
+## 1. Instructions
 
 ### 1.1 Installation
+It is recommended to use a virtual environment (e.g., venv) to avoid package conflicts. Here we assume you are using venv as your virtual environment. If you are using conda, please adjust the commands accordingly.
 
 ```bash
 git clone https://github.com/oarbelw/XBoundNetPlusPlus.git
@@ -43,6 +44,8 @@ pip install -r requirements.txt
 ```
 
 ## 1.2 Running the Jupyter Notebook
+The following will open a Jupyter Notebook environment, please open and run `XBoundNet.ipynb`
 ```bash
 jupyter notebook
 ```
+
