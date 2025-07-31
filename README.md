@@ -43,7 +43,7 @@ cd XBoundNetPlusPlus
 pip install -r requirements.txt
 ```
 
-## 1.2 Running the Jupyter Notebook
+### 1.2 Running the Jupyter Notebook
 The following will open a Jupyter Notebook environment, please open and run `XBoundNet.ipynb`
 ```bash
 jupyter notebook
