@@ -36,6 +36,11 @@ This work was done at the incredible lab at Robarts Research Institute, and was 
 
 ### 1.1 Installation
 
+<pre> \`\`\`bash git clone https://github.com/oarbelw/XBoundNetPlusPlus.git \`\`\` </pre>
+<pre> \`\`\`bash cd XBoundNetPlusPlus \`\`\` </pre>
+<pre> \`\`\`bash pip install -r requirements.txt \`\`\` </pre>
+
+
 
 
 
