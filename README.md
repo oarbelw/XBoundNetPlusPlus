@@ -49,10 +49,25 @@ The following will open a Jupyter Notebook environment, please open and run `XBo
 jupyter notebook
 ```
 
+### 1.3 Dataset
+The current dataset is a small dataset of 912 2D DICOM CT slices that are saved in .bmp format. Please indicate the path (and file format) to the dataset in the notebook, such that path is arranged as followed:
+
+```
+/path/to/dataset/
+├── Images/
+│    ├── patient1.bmp
+│    ├── patient2.bmp
+│    └── ...
+└── Masks/
+      ├── patient1mask.bmp
+      ├── patient2mask.bmp
+      └── ...
+```
+
 ## 2. Acknowledgments
 The authors are grateful for funding from the Ontario Institute of Cancer Research (OICR) Grant RA#262 and the Canadian Institutes of Health Research (CIHR) – Grant FRN 154314.
 
 ## 3. Contact
-Please raise a GitHub issue or contact one of the corresponding authors for access to the dataset.
+Please raise a GitHub issue if you should encounter an issue or contact one of the corresponding authors for access to the dataset.
 [oarbelwo@uwo.ca](oarbelwo@uwo.ca) | [afenster@uwo.ca](afenster@uwo.ca) | [mrasteg2@uwo.ca](mrasteg2@uwo.ca)
 
