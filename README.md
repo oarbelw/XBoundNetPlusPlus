@@ -40,7 +40,9 @@ This work was done at the incredible lab at Robarts Research Institute, and was 
 git clone https://github.com/oarbelw/XBoundNetPlusPlus.git
 cd XBoundNetPlusPlus
 pip install -r requirements.txt
+```
 
 ## 1.2 Running the Jupyter Notebook
 ```bash
 jupyter notebook
+```
