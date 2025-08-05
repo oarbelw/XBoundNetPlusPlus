@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper:
 
 
 > **XBoundNet++: Uncertainty-Aware Segmentation of Kidney Ablation Zones** <br>
-> Oren Arbel-Wood, Aaron Fenster, Maryam Rastegarpoor<br>
+> Oren Arbel-Wood, Maryam Rastegarpoor, Aaron Fenster<br>
 > Accepted to the 2nd MICCAI Student Board (MSB) EMERGE Workshop held in conjunction with the 28th International Conference on Medical Image Computing Computer Aided Intervention (MICCAI) 2025<br>
 > **Paper** [openreview](https://openreview.net/pdf?id=lHgWi8hprO)
 
@@ -23,7 +23,7 @@ XBoundNet++ tackles this challenge head-on by providing:
 
 The model excels at segmentation while offering spatial uncertainty and probability overlays. These features support more informed clinical review and promote safer, more trustworthy AI-assisted decision-making in interventional radiology - ultimately leading to improved patient outcomes. 
 
-This work was done at the incredible lab at Robarts Research Institute, and was made possible through the guidance of my supervisors - Aaron Fenster and Maryam Rastegarpoor. 
+This work was done at the incredible lab at Robarts Research Institute, and was made possible through the guidance of my supervisors - Maryam Rastegarpoor and Aaron Fenster. 
 
 <div align="center">
 
@@ -70,5 +70,5 @@ The authors are grateful for funding from the Ontario Institute of Cancer Resear
 ## 3. Contact
 Please raise a GitHub issue if you should encounter an issue or contact one of the corresponding authors for access to the dataset.
 
-[oarbelwo@uwo.ca](oarbelwo@uwo.ca) | [afenster@uwo.ca](afenster@uwo.ca) | [mrasteg2@uwo.ca](mrasteg2@uwo.ca)
+[oarbelwo@uwo.ca](oarbelwo@uwo.ca) | [mrasteg2@uwo.ca](mrasteg2@uwo.ca) | [afenster@uwo.ca](afenster@uwo.ca)
 
