@@ -8,7 +8,7 @@ This repository contains the official implementation of the paper:
 > **XBoundNet++: Uncertainty-Aware Segmentation of Kidney Ablation Zones** <br>
 > Oren Arbel-Wood, Maryam Rastegarpoor, Aaron Fenster<br>
 > Accepted to the 2nd MICCAI Student Board (MSB) EMERGE Workshop held in conjunction with the 28th International Conference on Medical Image Computing Computer Aided Intervention (MICCAI) 2025<br>
-> **Paper** [openreview](https://openreview.net/pdf?id=lHgWi8hprO)
+> **Paper** [PAPER-0013.pdf](./PAPER-0013.pdf)
 
 ## Overview
 
